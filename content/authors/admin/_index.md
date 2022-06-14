@@ -2,21 +2,21 @@
 bio: Mis intereses son en Machine Learning, estadística aplicada a los negocios, pronóstico y econometría.
 education:
   courses:
-  - course: 7 Certificaciones en Ciencia de Datos
-    institution: IBM
-    year: 2019
-  - course: Especialización en Estadística
-    institution: University of Michigan
+  - course: Maestría en Inteligencia de Negocio
+    institution: Universidad Católica Boliviana
     year: 2018
-  - course: Lic. Administración de Empresas
-    institution: Universidad Autónoma de Barcelona
-    year: 2005
+  - course: Diplomado en Educ. Superior y Diplomado en Depósito de datos
+    institution: Universidad Tecnológica Privada Santa Cruz
+    year: 2017
+  - course: Profesiones Ing. Comercial, Economista
+    institution: Universidad Privada Domingo Savio y UAGRM
+    year: 2012
 email: ""
 highlight_name: true
 interests:
-- Machine Learning
-- Estadística aplicada a negocio
-- Prónosticos, modelos predectivos, econometría.
+- Estadística
+- Investigación y comportamiento del consumidor
+- Minería de datos.
 organizations:
 - name: I.C.E.
   url: https://www.facebook.com/ICE.SantaCruz
@@ -42,4 +42,4 @@ Soy economista y también ingeniero comercial, con especialidad en sistemas para
 
 Manejo R y Jamovi para hacer análisis estadísticos, entre los que destaco los modelos multivariados y de minería de datos; también ocupo la herramienta G*Power para el diseño de modelos muestrales complejos que permiten en una etapa posterior a los análisis estadísticos la generalización de los resultados. 
 
-{{< icon name="download" pack="fas" >}} Descarga mi {{< staticref "uploads/charlie-do-amaral.pdf" "newtab" >}}hoja de vida{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Descarga mi {{< staticref "uploads/fernando-parada.pdf" "newtab" >}}hoja de vida{{< /staticref >}}.
