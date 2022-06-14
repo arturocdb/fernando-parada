@@ -24,16 +24,13 @@ role: Investigador Estadístico
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  link: /uploads/fernando-parada.pdf
 - icon: graduation-cap
   icon_pack: fas
   link: /uploads/fernando-parada.pdf
-- icon: github
-  icon_pack: fab
-  link: https://github.com/arturocdb
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/charlie-arturo-do-amaral-becerra/
+  link: https://www.linkedin.com/in/f3rnando-parada/
 superuser: true
 title: Fernando Parada
 ---
