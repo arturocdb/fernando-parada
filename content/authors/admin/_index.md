@@ -27,7 +27,7 @@ social:
   link: /#contact
 - icon: graduation-cap
   icon_pack: fas
-  link: /uploads/charlie-do-amaral.pdf
+  link: /uploads/fernando-parada.pdf
 - icon: github
   icon_pack: fab
   link: https://github.com/arturocdb
@@ -38,8 +38,8 @@ superuser: true
 title: Fernando Parada
 ---
 
-Soy Lic. en Administración y Dirección de Empresas con especialidad en Estadística.  Recibí mi licenciatura en la Universidad Autónoma de Barcelona. En los últimos años alcancé mi objetivo de convertirme en científico de datos. 
+Soy economista y también ingeniero comercial, con especialidad en sistemas para la toma de decisiones. Me apasiona el análisis de datos y mi hobby es “estadistiquear”. 
 
-Como Científico de datos trabajo en equipos multifuncionales. Me siento cómodo utilizando herramientas como R o Python para el desarrollo de modelos de Machine Learning/Algoritmos de Ciencia de datos, usar técnicas estadísticas o de minería de datos para modelar problemas complejos, encontrar oportunidades, descubrir soluciones y brindar información de negocio procesable. 
+Manejo R y Jamovi para hacer análisis estadísticos, entre los que destaco los modelos multivariados y de minería de datos; también ocupo la herramienta G*Power para el diseño de modelos muestrales complejos que permiten en una etapa posterior a los análisis estadísticos la generalización de los resultados. 
 
 {{< icon name="download" pack="fas" >}} Descarga mi {{< staticref "uploads/charlie-do-amaral.pdf" "newtab" >}}hoja de vida{{< /staticref >}}.
